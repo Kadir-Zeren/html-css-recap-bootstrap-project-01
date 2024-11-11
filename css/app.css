@@ -20,6 +20,9 @@
   color: var(--red);
 }
 /*! ----------- 2- CAROUSEL---------- */
+.carousel-item {
+  max-height: calc(100vh - 88px);
+}
 /*! ----------- 3- ABOUT SECTION -------- */
 /*! ----------- 4- INSTRUCTORS --------- */
 /*! ----------- 4- STUDENTS SECTION------- */
